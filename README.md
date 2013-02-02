@@ -1,0 +1,1 @@
+This repository contains drafts for my blog, and is intended to help me become familiar wit using git.  
